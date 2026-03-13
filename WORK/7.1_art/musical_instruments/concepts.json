@@ -1,0 +1,332 @@
+{
+  "section": "7. Культура и искусство",
+  "subsection": "7.1 Искусство",
+  "topic": "Музыкальные инструменты",
+  "author_group": "Команда 42",
+  "members": [
+    "Домкин Павел",
+    "Иванченко Макар",
+    "Кудаева Виктория",
+    "Мишин Сергей",
+    "Морозов Захар",
+    "Нугаев Мирон",
+    "Шведов Александр"
+  ],
+  "concepts": [
+    {
+      "id": "WEB/7.1_art/musical_instruments/articles/piano",
+      "name": "Фортепиано",
+      "description": "Статья о теме «Фортепиано»: клавишный инструмент с широким диапазоном и богатой динамикой.",
+      "lemmas": [
+        "фортепиано",
+        "музыкальные инструменты",
+        "искусство",
+        "музыка",
+        "звучание",
+        "обучение"
+      ],
+      "file": "WEB/7.1_art/musical_instruments/articles/piano.md",
+      "author": "Домкин Павел"
+    },
+    {
+      "id": "WEB/7.1_art/musical_instruments/articles/violin",
+      "name": "Скрипка",
+      "description": "Статья о теме «Скрипка»: струнный смычковый инструмент с выразительным тембром.",
+      "lemmas": [
+        "скрипка",
+        "музыкальные инструменты",
+        "искусство",
+        "музыка",
+        "звучание",
+        "обучение"
+      ],
+      "file": "WEB/7.1_art/musical_instruments/articles/violin.md",
+      "author": "Иванченко Макар"
+    },
+    {
+      "id": "WEB/7.1_art/musical_instruments/articles/cello",
+      "name": "Виолончель",
+      "description": "Статья о теме «Виолончель»: низкий струнный смычковый инструмент оркестра.",
+      "lemmas": [
+        "виолончель",
+        "музыкальные инструменты",
+        "искусство",
+        "музыка",
+        "звучание",
+        "обучение"
+      ],
+      "file": "WEB/7.1_art/musical_instruments/articles/cello.md",
+      "author": "Кудаева Виктория"
+    },
+    {
+      "id": "WEB/7.1_art/musical_instruments/articles/guitar",
+      "name": "Гитара",
+      "description": "Статья о теме «Гитара»: струнный щипковый инструмент для аккомпанемента и соло.",
+      "lemmas": [
+        "гитара",
+        "музыкальные инструменты",
+        "искусство",
+        "музыка",
+        "звучание",
+        "обучение"
+      ],
+      "file": "WEB/7.1_art/musical_instruments/articles/guitar.md",
+      "author": "Мишин Сергей"
+    },
+    {
+      "id": "WEB/7.1_art/musical_instruments/articles/flute",
+      "name": "Флейта",
+      "description": "Статья о теме «Флейта»: деревянный духовой инструмент с ярким верхним регистром.",
+      "lemmas": [
+        "флейта",
+        "музыкальные инструменты",
+        "искусство",
+        "музыка",
+        "звучание",
+        "обучение"
+      ],
+      "file": "WEB/7.1_art/musical_instruments/articles/flute.md",
+      "author": "Морозов Захар"
+    },
+    {
+      "id": "WEB/7.1_art/musical_instruments/articles/clarinet",
+      "name": "Кларнет",
+      "description": "Статья о теме «Кларнет»: язычковый духовой инструмент с гибким динамическим диапазоном.",
+      "lemmas": [
+        "кларнет",
+        "музыкальные инструменты",
+        "искусство",
+        "музыка",
+        "звучание",
+        "обучение"
+      ],
+      "file": "WEB/7.1_art/musical_instruments/articles/clarinet.md",
+      "author": "Нугаев Мирон"
+    },
+    {
+      "id": "WEB/7.1_art/musical_instruments/articles/saxophone",
+      "name": "Саксофон",
+      "description": "Статья о теме «Саксофон»: язычковый духовой инструмент, популярный в джазе.",
+      "lemmas": [
+        "саксофон",
+        "музыкальные инструменты",
+        "искусство",
+        "музыка",
+        "звучание",
+        "обучение"
+      ],
+      "file": "WEB/7.1_art/musical_instruments/articles/saxophone.md",
+      "author": "Шведов Александр"
+    },
+    {
+      "id": "WEB/7.1_art/musical_instruments/articles/trumpet",
+      "name": "Труба",
+      "description": "Статья о теме «Труба»: медный духовой инструмент с мощным и ярким звучанием.",
+      "lemmas": [
+        "труба",
+        "музыкальные инструменты",
+        "искусство",
+        "музыка",
+        "звучание",
+        "обучение"
+      ],
+      "file": "WEB/7.1_art/musical_instruments/articles/trumpet.md",
+      "author": "Домкин Павел"
+    },
+    {
+      "id": "WEB/7.1_art/musical_instruments/articles/trombone",
+      "name": "Тромбон",
+      "description": "Статья о теме «Тромбон»: медный духовой инструмент с кулисой и глубоким тембром.",
+      "lemmas": [
+        "тромбон",
+        "музыкальные инструменты",
+        "искусство",
+        "музыка",
+        "звучание",
+        "обучение"
+      ],
+      "file": "WEB/7.1_art/musical_instruments/articles/trombone.md",
+      "author": "Иванченко Макар"
+    },
+    {
+      "id": "WEB/7.1_art/musical_instruments/articles/drums",
+      "name": "Барабаны",
+      "description": "Статья о теме «Барабаны»: ударная установка, задающая ритм ансамбля.",
+      "lemmas": [
+        "барабаны",
+        "музыкальные инструменты",
+        "искусство",
+        "музыка",
+        "звучание",
+        "обучение"
+      ],
+      "file": "WEB/7.1_art/musical_instruments/articles/drums.md",
+      "author": "Кудаева Виктория"
+    },
+    {
+      "id": "WEB/7.1_art/musical_instruments/articles/xylophone",
+      "name": "Ксилофон",
+      "description": "Статья о теме «Ксилофон»: ударный инструмент с деревянными пластинами.",
+      "lemmas": [
+        "ксилофон",
+        "музыкальные инструменты",
+        "искусство",
+        "музыка",
+        "звучание",
+        "обучение"
+      ],
+      "file": "WEB/7.1_art/musical_instruments/articles/xylophone.md",
+      "author": "Мишин Сергей"
+    },
+    {
+      "id": "WEB/7.1_art/musical_instruments/articles/harp",
+      "name": "Арфа",
+      "description": "Статья о теме «Арфа»: струнный инструмент с мягким переливчатым звучанием.",
+      "lemmas": [
+        "арфа",
+        "музыкальные инструменты",
+        "искусство",
+        "музыка",
+        "звучание",
+        "обучение"
+      ],
+      "file": "WEB/7.1_art/musical_instruments/articles/harp.md",
+      "author": "Морозов Захар"
+    },
+    {
+      "id": "WEB/7.1_art/musical_instruments/articles/accordion",
+      "name": "Аккордеон",
+      "description": "Статья о теме «Аккордеон»: клавишно-язычковый инструмент с мехами.",
+      "lemmas": [
+        "аккордеон",
+        "музыкальные инструменты",
+        "искусство",
+        "музыка",
+        "звучание",
+        "обучение"
+      ],
+      "file": "WEB/7.1_art/musical_instruments/articles/accordion.md",
+      "author": "Нугаев Мирон"
+    },
+    {
+      "id": "WEB/7.1_art/musical_instruments/articles/harmonica",
+      "name": "Губная гармоника",
+      "description": "Статья о теме «Губная гармоника»: компактный язычковый инструмент для мелодии и аккомпанемента.",
+      "lemmas": [
+        "губная гармоника",
+        "музыкальные инструменты",
+        "искусство",
+        "музыка",
+        "звучание",
+        "обучение"
+      ],
+      "file": "WEB/7.1_art/musical_instruments/articles/harmonica.md",
+      "author": "Шведов Александр"
+    },
+    {
+      "id": "WEB/7.1_art/musical_instruments/articles/balalaika",
+      "name": "Балалайка",
+      "description": "Статья о теме «Балалайка»: русский народный струнный щипковый инструмент.",
+      "lemmas": [
+        "балалайка",
+        "музыкальные инструменты",
+        "искусство",
+        "музыка",
+        "звучание",
+        "обучение"
+      ],
+      "file": "WEB/7.1_art/musical_instruments/articles/balalaika.md",
+      "author": "Домкин Павел"
+    },
+    {
+      "id": "WEB/7.1_art/musical_instruments/articles/domra",
+      "name": "Домра",
+      "description": "Статья о теме «Домра»: русский народный струнный щипковый инструмент круглого корпуса.",
+      "lemmas": [
+        "домра",
+        "музыкальные инструменты",
+        "искусство",
+        "музыка",
+        "звучание",
+        "обучение"
+      ],
+      "file": "WEB/7.1_art/musical_instruments/articles/domra.md",
+      "author": "Иванченко Макар"
+    },
+    {
+      "id": "WEB/7.1_art/musical_instruments/articles/tuba",
+      "name": "Туба",
+      "description": "Статья о теме «Туба»: самый низкий медный духовой инструмент.",
+      "lemmas": [
+        "туба",
+        "музыкальные инструменты",
+        "искусство",
+        "музыка",
+        "звучание",
+        "обучение"
+      ],
+      "file": "WEB/7.1_art/musical_instruments/articles/tuba.md",
+      "author": "Кудаева Виктория"
+    },
+    {
+      "id": "WEB/7.1_art/musical_instruments/articles/double_bass",
+      "name": "Контрабас",
+      "description": "Статья о теме «Контрабас»: крупный низкий струнный инструмент оркестра.",
+      "lemmas": [
+        "контрабас",
+        "музыкальные инструменты",
+        "искусство",
+        "музыка",
+        "звучание",
+        "обучение"
+      ],
+      "file": "WEB/7.1_art/musical_instruments/articles/double_bass.md",
+      "author": "Мишин Сергей"
+    },
+    {
+      "id": "WEB/7.1_art/musical_instruments/articles/oboe",
+      "name": "Гобой",
+      "description": "Статья о теме «Гобой»: духовой инструмент с двойной тростью и узнаваемым тембром.",
+      "lemmas": [
+        "гобой",
+        "музыкальные инструменты",
+        "искусство",
+        "музыка",
+        "звучание",
+        "обучение"
+      ],
+      "file": "WEB/7.1_art/musical_instruments/articles/oboe.md",
+      "author": "Морозов Захар"
+    },
+    {
+      "id": "WEB/7.1_art/musical_instruments/articles/bass_guitar",
+      "name": "Бас-гитара",
+      "description": "Статья о теме «Бас-гитара»: струнный инструмент, формирующий басовую линию.",
+      "lemmas": [
+        "бас-гитара",
+        "музыкальные инструменты",
+        "искусство",
+        "музыка",
+        "звучание",
+        "обучение"
+      ],
+      "file": "WEB/7.1_art/musical_instruments/articles/bass_guitar.md",
+      "author": "Нугаев Мирон"
+    },
+    {
+      "id": "WEB/7.1_art/musical_instruments/articles/marimba",
+      "name": "Маримба",
+      "description": "Статья о теме «Маримба»: ударный инструмент с деревянными пластинами и резонаторами.",
+      "lemmas": [
+        "маримба",
+        "музыкальные инструменты",
+        "искусство",
+        "музыка",
+        "звучание",
+        "обучение"
+      ],
+      "file": "WEB/7.1_art/musical_instruments/articles/marimba.md",
+      "author": "Шведов Александр"
+    }
+  ]
+}
