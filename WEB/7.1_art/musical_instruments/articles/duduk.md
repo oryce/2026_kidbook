@@ -97,6 +97,13 @@
 
 5. **Слушай Гаспаряна.** Его альбомы «I Will Not Be Sad in This World» и «Moon Shines at Night» — обязательная программа.
 
+
+## Похожие статьи
+
+- [Зурна](zurna.md)
+- [Флейта](flute.md)
+- [Волынка](bagpipe.md)
+
 ---
 
 *Автор: Шведов Александр (@alshved)*
